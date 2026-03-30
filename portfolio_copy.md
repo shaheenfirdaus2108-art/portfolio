@@ -69,4 +69,4 @@ During my time at Graphic Era Hill University, I developed a rigorous foundation
 ## 5. Personal Touch
 
 **Beyond the Canvas:**
-When I’m not organizing artboards in Figma, you’ll likely find me sketching quiet landscapes, experimenting with photography, or trekking through the lower Himalayas. These offline pursuits keep me grounded, teaching me the value of patience and offering fresh perspectives that inevitably find their way back into my design work.
+When I’m not organizing artboards in Figma, you’ll likely find me sketching quiet landscapes, experimenting with photography, or trekking through the lower Himalayas. These offline pursuits keep me grounded, teaching me the value of patience and offering fresh perspectives that inevitably find their way back in my design work.
