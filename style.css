@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Lexend:wght@400;600&display=swap');
 
 :root {
-  --bg-dark: #09090b;
-  --bg-darker: #000000;
-  --text-primary: #f8fafc;
+  --bg-dark: #0f172a;
+  --bg-darker: #020617;
+  --text-primary: #e2e8f0;
   --text-secondary: #94a3b8;
-  --accent-color: #3b82f6;
+  --accent-color: #6366f1;
   --glass-bg: rgba(255, 255, 255, 0.03);
   --glass-border: rgba(255, 255, 255, 0.08);
   --glass-hover: rgba(255, 255, 255, 0.06);
